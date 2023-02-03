@@ -806,7 +806,7 @@ h4 {
 }
 
 .black-background {
-    background-color: #3A0600;
+    background-color: #272222;
     padding: 40px 40px 40px 40px;
 }
 
@@ -827,12 +827,17 @@ h4 {
     background-color: #F3976C;
 }
 
+.bgc-atomic-tangerin {
+    background-color: #3A0600;
+    color: #FFFFFF;
+}
+
 .tc-white {
     color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #983C11;
     color: #FFFFFF!important;
 }
 
